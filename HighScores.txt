@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+22671		j
+19214		jun
+11421		jc
+
+10316		jun
+=======
+23768		GJC
+19214		jun
+17579		gjc
+>>>>>>> 8b0a15718f42e5538362385db45aaf8d3027c111
+9999		Default
+9893		GJC
+8888		Default
+7777		Default
+<<<<<<< HEAD
+7624		j
+=======
+7043		GJC
+>>>>>>> 8b0a15718f42e5538362385db45aaf8d3027c111
+6666		Default
+5555		Default
