@@ -1,2 +1,4 @@
 # SpaceshipGame
-A spaceship &amp; asteroids shooting game
+A spaceship &amp; asteroids shooting game  
+
+run: main.cpp  
